@@ -21,7 +21,3 @@ Builds the app for production in the `build` folder. The app is optimized for th
 ### `npm run eject`
 
 **Note:** This is a one-way operation. Once ejected, you cannot revert. Use this if you need complete control over configuration but proceed cautiously.
-
----
-
-Unnecessary sections and URLs have been removed. Let me know if you need further edits or enhancements. 🚀
