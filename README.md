@@ -1,69 +1,72 @@
-MERN Stack App 🚀
+# MERN Stack App 🚀
 
 This project is a basic MERN (MongoDB, Express.js, React.js, Node.js) stack application. It demonstrates the creation and retrieval of user data from a MongoDB database using Express.js for the backend and React.js for the frontend.
 
-Features 🌟
+## Features 🌟
 
-User Management: Create and fetch user data.
+- **User Management**: Create and fetch user data.
+- **Backend**: Built with Node.js and Express.js.
+- **Frontend**: Developed using React.js.
+- **Database**: MongoDB for storing user data.
 
-Backend: Built with Node.js and Express.js.
-
-Frontend: Developed using React.js.
-
-Database: MongoDB for storing user data.
-
-Prerequisites ✅
+## Prerequisites ✅
 
 Before running the application, ensure you have the following installed:
 
-Node.js 
+- [Node.js](https://nodejs.org/)&#x20;
+- [MongoDB](https://www.mongodb.com/try/download/community)
+- [npm](https://www.npmjs.com/) (or yarn)
 
-MongoDB
+## Installation ⚙️
 
-npm (or yarn)
+1. **Clone the repository**
 
-Installation ⚙️
+   ```bash
+   git clone <repository-url>
+   cd <repository-name>
+   ```
 
-Clone the repository
+2. **Install backend dependencies**
 
-git clone <repository-url>
-cd <repository-name>
+   ```bash
+   cd server
+   npm install
+   ```
 
-Install backend dependencies
+3. **Install frontend dependencies**
 
-cd server
-npm install
-
-Install frontend dependencies
-
-cd client
-npm install
-
+   ```bash
+   cd client
+   npm install
+   ```
 
 
-Running the Application ▶️
 
-Start the backend server
+## Running the Application ▶️
 
-cd server
-npm start
+1. **Start the backend server**
 
-Start the frontend server
+   ```bash
+   cd server
+   npm start
+   ```
 
-cd client
-npm start
+2. **Start the frontend server**
 
-Open your browser and navigate to http://localhost:3000 to view the app.
+   ```bash
+   cd client
+   npm start
+   ```
 
-Technologies Used 🛠️
+3. Open your browser and navigate to `http://localhost:3000` to view the app.
 
-Frontend: React.js
+## Technologies Used 🛠️
 
-Backend: Node.js, Express.js
+- **Frontend**: React.js
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
 
-Database: MongoDB
+## Acknowledgments 🙏
 
-Acknowledgments 🙏
-
-The MERN stack community for their excellent tutorials and resources.
+- The MERN stack community for their excellent tutorials and resources.
 
